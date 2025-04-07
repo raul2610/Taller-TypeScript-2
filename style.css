@@ -1,0 +1,21 @@
+.logo {
+    background-color: #259fb4;
+    padding: 10px;
+  }
+  .logo-content {
+    display: flex;
+    align-items: center;
+  }
+  .logo-content img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.table tbody tr {
+    background-color: #dcdcdc;
+}
+
+.columna-name {
+    color: rgb(0, 157, 255);
+}
